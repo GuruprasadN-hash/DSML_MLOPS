@@ -5,4 +5,4 @@
 
  I am in the remote
 
- I am in Branch A
+ I am in Branch B
